@@ -34,4 +34,5 @@ Elle commence avec le chargement du fichier "worldcities.csv" qui doit être pr�
 7. Des checkpoints ont été ajoutés pour charger les données transformées après les étapes de:
    Consolidation des données
    Nettoyage des données
+8. Vous pouvez télécharger les différents fichierd .csv pour les utiliser au checkpoint approprié
 
