@@ -30,4 +30,8 @@ Le fichier est structuré selon:
 4. Cette partie suit notre process de récupération des données depuis plusieurs sources. Pour rappel, cette partie est plus ou moins chronophage selon la vitesse de votre connexion.
 Elle commence avec le chargement du fichier "worldcities.csv" qui doit être présent dans le même dossier que 
 5. Data Cleaning: Cette partie correspond à notre étape de nettoyage de la donnée. En fin de cette étape nous avons sauvegardé le résultat dans "world_cities_cleaned.csv".
-6. Ainsi, un option est de charger directement le fichier "world_cities_cleaned.csv" et de procéder à l'affichage des graphs et tests statistiques.
+6. Les parties de code spécifiques à Google Collab on été séparées des blocs de code principaux.
+7. Des checkpoints ont été ajoutés pour charger les données transformées après les étapes de:
+   Consolidation des données
+   Nettoyage des données
+
