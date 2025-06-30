@@ -23,7 +23,7 @@ Des études récentes montrent des disparités dans l'impact de ces facteurs sur
 
 
 
-How to run it
+How to run it: 
 Le fichier est structuré selon:
 1. Import des librairies. Cette partie est à lancer impérativement. Elle vous guidera sur les librairies manquantes sur votre système.
 2. Récupération des données:
